@@ -194,14 +194,11 @@ These values correspond to the sample analysis provided with the project.
 | 💻 **VS Code** | Development environment |
 | 🖥️ **Terminal** | Program execution |
 | 📚 **Operating Systems** | CPU scheduling concepts |
-```text
-CPU-Scheduling-Algorithms/
-│
-├── 📄 Advanced CPU Scheduling Algorithms.docx
-├── 🐍 python priority_preemptive.py
-├── 🐍 python3 priority_preemptive.py
-├── 🖼️ Capture-2.PNG
-└── 📖 README.md
+├── 📄 **Advanced CPU Scheduling Algorithms.docx** |
+├── 🐍 python priority_preemptive.py |
+├── 🐍 python3 priority_preemptive.py |
+├── 🖼️ Capture-2.PNG |
+└── 📖 README.md |
 File Description
 
 python priority_preemptive.py
