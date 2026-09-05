@@ -335,22 +335,29 @@ The project was developed to demonstrate the implementation, execution, and anal
 
 ## Computer Science / IT
 
-⭐ Project Highlights
-⚙️ Algorithm        → Preemptive Priority Scheduling
-🐍 Language         → Python
-🎯 Priority Rule    → Lower number = Higher Priority
-🔄 Scheduling       → Preemptive
-📊 Metrics          → CT, TAT, WT
-📈 Analysis         → Average WT & Average TAT
-📚 Domain           → Operating Systems
-⭐ Support
+---
+
+# ⭐ Project Highlights
+
+| | |
+|:---|:---|
+| ⚙️ **Algorithm** | Preemptive Priority Scheduling |
+| 🐍 **Language** | Python |
+| 🎯 **Priority Rule** | Lower number = Higher Priority |
+| 🔄 **Scheduling** | Preemptive |
+| 📊 **Metrics** | CT, TAT, WT |
+| 📈 **Analysis** | Average WT & Average TAT |
+| 📚 **Domain** | Operating Systems |
+
+---
+# ⭐ Support
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 Built for learning, experimentation, and practical understanding of CPU scheduling algorithms.
 
 
-### One important improvement
+# One important improvement
 
 Your current repository looks good structurally, but the **README is the biggest missing piece**. Your assignment itself specifically requires a clear README with setup/run instructions, algorithm summary, and design choices. :contentReference[oaicite:7]{index=7}
 
