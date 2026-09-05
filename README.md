@@ -272,7 +272,9 @@ The program then generates a scheduling results table.
 
 Average Waiting Time = 10.2
 Average Turnaround Time = 15.6
-🎯 Learning Objectives
+
+---
+# 🎯 Learning Objectives
 
 This project provides practical understanding of:
 
@@ -285,7 +287,9 @@ Ready queue concepts
 Scheduling performance metrics
 Waiting and turnaround time
 Operating system process management
-⚠️ Limitations
+
+---
+# ⚠️ Limitations
 
 The current implementation focuses specifically on Preemptive Priority Scheduling.
 
@@ -299,7 +303,7 @@ Average Turnaround Time
 
 The assignment specification additionally lists Response Time as a required metric, so RT can be added as a future enhancement.
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 Possible improvements include:
 
@@ -314,7 +318,9 @@ Possible improvements include:
  Add automated test cases
  Export scheduling results to CSV
  Compare multiple scheduling algorithms
-📚 Academic Context
+
+---
+# 📚 Academic Context
 
 Subject: Advanced Operating Systems
 Topic: Priority Scheduling – Preemptive
@@ -322,11 +328,12 @@ Language: Python
 
 The project was developed to demonstrate the implementation, execution, and analysis of a CPU scheduling algorithm. The assignment requires the source code to be publicly available and the repository to include clear documentation for setup, execution, and algorithm explanation.
 
-👨‍💻 Author
+---
+# 👨‍💻 Author
 
-Shahid Azam
+## Shahid Azam
 
-Computer Science / IT
+## Computer Science / IT
 
 ⭐ Project Highlights
 ⚙️ Algorithm        → Preemptive Priority Scheduling
