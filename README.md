@@ -185,13 +185,16 @@ These values correspond to the sample analysis provided with the project.
 | 4 | Preemptive Priority Scheduling can lead to **starvation** for low-priority processes. |
 | 5 | The scheduling results demonstrate the effect of process priority on CPU allocation. |
 
+---
 # 🛠️ Technologies Used
-Technology	Purpose
-🐍 Python	Algorithm implementation
-💻 VS Code	Development environment
-🖥️ Terminal	Program execution
-📚 Operating Systems	Scheduling concepts
-📁 Repository Structure
+
+| Technology | Purpose |
+|:---|:---|
+| 🐍 **Python** | Algorithm implementation |
+| 💻 **VS Code** | Development environment |
+| 🖥️ **Terminal** | Program execution |
+| 📚 **Operating Systems** | CPU scheduling concepts |
+```text
 CPU-Scheduling-Algorithms/
 │
 ├── 📄 Advanced CPU Scheduling Algorithms.docx
