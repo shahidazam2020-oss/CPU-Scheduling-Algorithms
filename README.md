@@ -215,12 +215,12 @@ Contains the assignment requirements, sample dataset, execution analysis, result
 Capture-2.PNG
 Contains an example of the program execution/output.
 
-🚀 Getting Started
-1. Clone the Repository
+# 🚀 Getting Started
+## 1. Clone the Repository
 
 Clone this repository to your local machine using Git.
 
-2. Install Python
+## 2. Install Python
 
 Make sure Python 3 is installed on your system.
 
@@ -231,7 +231,7 @@ python --version
 or:
 
 python3 --version
-3. Run the Program
+## 3. Run the Program
 
 Navigate to the project directory and run:
 
@@ -240,7 +240,7 @@ python "python priority_preemptive.py"
 For Python 3:
 
 python3 "python3 priority_preemptive.py"
-🖥️ User Input
+# 🖥️ User Input
 
 The program asks the user to enter:
 
