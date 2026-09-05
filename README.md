@@ -95,6 +95,8 @@ Display results
        End
 
 ---
+```
+
 📊 Scheduling Metrics
 
 The simulator calculates the following metrics:
