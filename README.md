@@ -122,18 +122,21 @@ BT = Burst Time
 
 The assignment also specifies Response Time (RT) as a required scheduling metric.
 
+---
+
 # 🧪 Sample Input
 
 The project uses the following test dataset:
 
-Process	Arrival Time	Burst Time	Priority
-P1	0	10	3
-P2	2	5	1
-P3	4	3	4
-P4	6	8	2
-P5	8	1	5
+| Process | Arrival Time | Burst Time | Priority |
+|:-------:|-------------:|-----------:|---------:|
+| P1 | 0 | 10 | 3 |
+| P2 | 2 | 5 | 1 |
+| P3 | 4 | 3 | 4 |
+| P4 | 6 | 8 | 2 |
+| P5 | 8 | 1 | 5 |
 
-Priority Rule: Lower priority number = higher priority.
+> **Priority Rule:** Lower priority number = higher priority.
 
 🔄 Example Execution
 
