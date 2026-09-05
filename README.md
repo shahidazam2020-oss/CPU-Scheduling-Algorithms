@@ -122,7 +122,7 @@ BT = Burst Time
 
 The assignment also specifies Response Time (RT) as a required scheduling metric.
 
-🧪 Sample Input
+# 🧪 Sample Input
 
 The project uses the following test dataset:
 
