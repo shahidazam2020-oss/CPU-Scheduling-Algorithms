@@ -260,14 +260,15 @@ The same process information is collected for all processes.
 
 The program then generates a scheduling results table.
 
-📋 Example Output
-PID     AT      BT      PR      CT      TAT     WT
+# 📋 Example Output
 
-1       0       10      3       23      23      13
-2       2       5       1       7       5       0
-3       4       3       4       26      22      19
-4       6       8       2       15      9       1
-5       8       1       5       27      19      18
+| PID | AT | BT | PR | CT | TAT | WT |
+|:---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 10 | 3 | 23 | 23 | 13 |
+| 2 | 2 | 5 | 1 | 7 | 5 | 0 |
+| 3 | 4 | 3 | 4 | 26 | 22 | 19 |
+| 4 | 6 | 8 | 2 | 15 | 9 | 1 |
+| 5 | 8 | 1 | 5 | 27 | 19 | 18 |
 
 Average Waiting Time = 10.2
 Average Turnaround Time = 15.6
