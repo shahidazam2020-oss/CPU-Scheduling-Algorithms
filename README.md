@@ -160,16 +160,16 @@ Time 26-27 ─► P5 executes and completes
 
 The sample analysis shows that P2 preempts P1 because P2 has the highest priority among the available processes.
 
-📈 Sample Results
-PID	AT	BT	Priority	CT	TAT	WT
-P1	0	10	3	23	23	13
-P2	2	5	1	7	5	0
-P3	4	3	4	26	22	19
-P4	6	8	2	15	9	1
-P5	8	1	5	27	19	18
-Average Performance
-Average Waiting Time    = 10.2
-Average Turnaround Time = 15.6
+---
+
+# 📈 Sample Results
+| PID | AT | BT | Priority | CT | TAT | WT |
+|:---:|---:|---:|:--------:|---:|----:|---:|
+| P1  |  0 | 10 |    3     | 23 |  23 | 13 |
+| P2  |  2 |  5 |    1     |  7 |   5 |  0 |
+| P3  |  4 |  3 |    4     | 26 |  22 | 19 |
+| P4  |  6 |  8 |    2     | 15 |   9 |  1 |
+| P5  |  8 |  1 |    5     | 27 |  19 | 18 |
 
 These values correspond to the sample analysis provided with the project.
 
