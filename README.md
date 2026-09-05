@@ -173,13 +173,14 @@ The sample analysis shows that P2 preempts P1 because P2 has the highest priorit
 
 These values correspond to the sample analysis provided with the project.
 
-💡 Key Observations
+# 💡 Key Observations
 P2 executes immediately after arrival because it has the highest priority.
 P1 is executed in two separate intervals because it is preempted by P2.
 Processes with lower priority can experience longer waiting times.
 Preemptive Priority Scheduling can lead to starvation for low-priority processes.
 The scheduling results demonstrate the effect of process priority on CPU allocation.
-🛠️ Technologies Used
+
+# 🛠️ Technologies Used
 Technology	Purpose
 🐍 Python	Algorithm implementation
 💻 VS Code	Development environment
