@@ -43,7 +43,7 @@ When a new process arrives with a higher priority than the currently running pro
 
 ### Preemptive Priority Scheduling
 
-The algorithm continuously checks all processes that have arrived and have remaining execution time.
+**The algorithm continuously checks all processes that have arrived and have remaining execution time.**
 
 The process with the **lowest priority number** is selected because lower numbers represent higher priority.
 
