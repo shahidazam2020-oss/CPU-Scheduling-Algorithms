@@ -10,7 +10,7 @@ This project demonstrates how operating systems manage processes according to pr
 
 ## 📌 Project Overview
 
-CPU scheduling is a fundamental concept in operating systems that determines how processes are selected and executed by the CPU.
+**CPU scheduling is a fundamental concept in operating systems that determines how processes are selected and executed by the CPU.**
 
 This project implements **Preemptive Priority Scheduling**, where the CPU always selects the available process with the highest priority. In this implementation, **a lower priority number represents a higher priority**.
 
