@@ -16,7 +16,7 @@ This project implements **Preemptive Priority Scheduling**, where the CPU always
 
 When a new process arrives with a higher priority than the currently running process, the current process is **preempted** and the higher-priority process receives the CPU.
 
-The implementation also calculates important scheduling performance metrics for each process.
+**The implementation also calculates important scheduling performance metrics for each process.**
 
 ---
 
