@@ -158,7 +158,7 @@ Time 23-26 ─► P3 executes and completes
 
 Time 26-27 ─► P5 executes and completes
 
-The sample analysis shows that P2 preempts P1 because P2 has the highest priority among the available processes.
+**The sample analysis shows that P2 preempts P1 because P2 has the highest priority among the available processes.**
 
 ---
 
