@@ -99,7 +99,7 @@ Display results
 
 # 📊 Scheduling Metrics
 
-The simulator calculates the following metrics:
+**The simulator calculates the following metrics:**
 
 Completion Time (CT)
 
