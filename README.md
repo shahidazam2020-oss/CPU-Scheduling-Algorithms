@@ -222,7 +222,7 @@ Contains an example of the program execution/output.
 
 ## 2. Install Python
 
-Make sure Python 3 is installed on your system.
+**Make sure Python 3 is installed on your system.**
 
 Check your Python installation:
 
