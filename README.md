@@ -301,7 +301,7 @@ Waiting Time
 Average Waiting Time
 Average Turnaround Time
 
-The assignment specification additionally lists Response Time as a required metric, so RT can be added as a future enhancement.
+**The assignment specification additionally lists Response Time as a required metric, so RT can be added as a future enhancement.**
 
 # 🔮 Future Improvements
 
