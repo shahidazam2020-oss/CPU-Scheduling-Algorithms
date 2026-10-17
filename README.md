@@ -201,7 +201,7 @@ Time 26-27 ─► P5 executes and completes
 └── 📖 README.md |
 
 ---
-File Description
+**File Description**
 
 python priority_preemptive.py
 Main Python implementation of the Preemptive Priority Scheduling algorithm.
