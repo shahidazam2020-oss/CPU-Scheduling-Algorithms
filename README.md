@@ -171,7 +171,7 @@ Time 26-27 ─► P5 executes and completes
 | P4  |  6 |  8 |    2     | 15 |   9 |  1 |
 | P5  |  8 |  1 |    5     | 27 |  19 | 18 |
 
-These values correspond to the sample analysis provided with the project.
+**These values correspond to the sample analysis provided with the project.**
 
 ---
 
