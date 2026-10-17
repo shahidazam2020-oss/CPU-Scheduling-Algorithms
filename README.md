@@ -103,7 +103,7 @@ Display results
 
 Completion Time (CT)
 
-The time at which a process finishes execution.
+**The time at which a process finishes execution.**
 
 Turnaround Time (TAT)
 TAT = CT - AT
