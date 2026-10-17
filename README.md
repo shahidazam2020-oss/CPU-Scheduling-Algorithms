@@ -140,7 +140,7 @@ BT = Burst Time
 
 🔄 Example Execution
 
-The sample execution proceeds as follows:
+**The sample execution proceeds as follows:**
 
 Time 0 ──► P1 starts execution
 
