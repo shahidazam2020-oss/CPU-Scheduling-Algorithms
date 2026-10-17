@@ -293,7 +293,7 @@ Operating system process management
 
 **The current implementation focuses specifically on Preemptive Priority Scheduling.**
 
-The implementation provided in this repository calculates:
+**The implementation provided in this repository calculates:**
 
 Completion Time
 Turnaround Time
