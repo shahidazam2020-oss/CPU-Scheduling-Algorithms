@@ -305,7 +305,7 @@ Average Turnaround Time
 
 # 🔮 Future Improvements
 
-Possible improvements include:
+**Possible improvements include:**
 
  Add Response Time (RT)
  Generate automatic Gantt charts
