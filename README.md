@@ -210,7 +210,7 @@ python3 priority_preemptive.py
 Python 3 version of the scheduling implementation.
 
 Advanced CPU Scheduling Algorithms.docx
-Contains the assignment requirements, sample dataset, execution analysis, results, and documentation.
+**Contains the assignment requirements, sample dataset, execution analysis, results, and documentation.**
 
 Capture-2.PNG
 Contains an example of the program execution/output.
