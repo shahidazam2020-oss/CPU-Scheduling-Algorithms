@@ -256,7 +256,7 @@ Arrival Time:
 Burst Time:
 Priority:
 
-The same process information is collected for all processes.
+**The same process information is collected for all processes.**
 
 The program then generates a scheduling results table.
 
