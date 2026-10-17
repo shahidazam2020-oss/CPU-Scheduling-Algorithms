@@ -120,7 +120,7 @@ Where:
 TAT = Turnaround Time
 BT = Burst Time
 
-The assignment also specifies Response Time (RT) as a required scheduling metric.
+**The assignment also specifies Response Time (RT) as a required scheduling metric.**
 
 ---
 
