@@ -126,7 +126,7 @@ BT = Burst Time
 
 # 🧪 Sample Input
 
-The project uses the following test dataset:
+**The project uses the following test dataset:**
 
 | Process | Arrival Time | Burst Time | Priority |
 |:-------:|-------------:|-----------:|---------:|
