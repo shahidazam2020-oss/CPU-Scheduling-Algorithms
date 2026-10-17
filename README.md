@@ -276,7 +276,7 @@ Average Turnaround Time = 15.6
 ---
 # 🎯 Learning Objectives
 
-This project provides practical understanding of:
+**This project provides practical understanding of:**
 
 CPU scheduling
 Process management
