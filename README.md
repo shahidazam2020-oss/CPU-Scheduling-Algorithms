@@ -258,7 +258,7 @@ Priority:
 
 **The same process information is collected for all processes.**
 
-The program then generates a scheduling results table.
+**The program then generates a scheduling results table.**
 
 # 📋 Example Output
 
