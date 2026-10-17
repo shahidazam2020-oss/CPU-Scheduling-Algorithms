@@ -218,7 +218,7 @@ Contains an example of the program execution/output.
 # 🚀 Getting Started
 ## 1. Clone the Repository
 
-Clone this repository to your local machine using Git.
+**Clone this repository to your local machine using Git.**
 
 ## 2. Install Python
 
