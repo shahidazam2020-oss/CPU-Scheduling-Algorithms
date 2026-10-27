@@ -334,8 +334,8 @@ Language: Python
 
 **Shahid Azam**
 
-
-## Computer Science / IT
+**MS Computer Science Student**
+**Specialization in Artificial Intelligence**
 
 ---
 
