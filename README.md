@@ -345,6 +345,7 @@ I enjoy building complete software systems—from networking and operating syste
 - 🏆 **Achievements:** Designed and executed 30+ machine learning and data visualization projects delivering actionable insights
 - 🎯 **Focus Areas:** Data Visualization, AI/ML, Big Data Mining
 - 📬 **Contact:** shahidazam2020@gmail.com
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" height="18" valign="middle" /> WhatsApp: <a href="https://wa.me/+923412772594" target="_blank">Chat on WhatsApp</a>
 
 ---
 
