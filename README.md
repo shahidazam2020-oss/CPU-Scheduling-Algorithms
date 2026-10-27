@@ -337,6 +337,8 @@ Language: Python
 **MS Computer Science Student**
 **Specialization in Artificial Intelligence**
 
+Institute of Management Sciences, Peshawar, Pakistan
+
 ---
 
 # ⭐ Project Highlights
