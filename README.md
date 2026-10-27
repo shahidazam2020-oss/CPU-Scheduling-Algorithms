@@ -328,10 +328,12 @@ Language: Python
 
 **The project was developed to demonstrate the implementation, execution, and analysis of a CPU scheduling algorithm. The assignment requires the source code to be publicly available and the repository to include clear documentation for setup, execution, and algorithm explanation.**
 
----
-# 👨‍💻 Author
 
-## Shahid Azam
+---
+## 👨‍💻 About the Developer
+
+**Shahid Azam**
+
 
 ## Computer Science / IT
 
