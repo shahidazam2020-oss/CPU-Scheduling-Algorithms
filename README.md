@@ -387,13 +387,4 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 Built for learning, experimentation, and practical understanding of CPU scheduling algorithms.
 
-
-# One important improvement
-
-Your current repository looks good structurally, but the **README is the biggest missing piece**. Your assignment itself specifically requires a clear README with setup/run instructions, algorithm summary, and design choices. :contentReference[oaicite:7]{index=7}
-
-I would also recommend adding a **Gantt Chart image** to the README. For this dataset, the sequence is:
-
-**P1 → P2 → P4 → P1 → P3 → P5**
-
-That would make the repository look significantly more complete and professinal
+---
