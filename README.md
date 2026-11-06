@@ -396,4 +396,4 @@ I would also recommend adding a **Gantt Chart image** to the README. For this da
 
 **P1 → P2 → P4 → P1 → P3 → P5**
 
-That would make the repository look significantly more complete and professi
+That would make the repository look significantly more complete and professinal
