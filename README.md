@@ -385,6 +385,8 @@ I enjoy building complete software systems—from networking and operating syste
 
 If this project helps you understand machine learning for healthcare prediction, consider:
 
+⭐ **Starring the repository**
+
 # ⭐ Support
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
