@@ -391,6 +391,8 @@ If this project helps you understand machine learning for healthcare prediction,
 
 🐛 **Opening an issue**
 
+💡 **Sharing suggestions**
+
 # ⭐ Support
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
