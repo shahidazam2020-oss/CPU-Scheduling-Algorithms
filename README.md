@@ -1,4 +1,5 @@
 # ⚙️ CPU Scheduling Algorithms
+<p align="center">
 
 <a href="https://github.com/shahidazam2020-oss/CPU-Scheduling-Algorithms/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/CPU-Scheduling-Algorithms?style=social&cacheSeconds=60" alt="GitHub Stars">
@@ -10,7 +11,7 @@
 <a href="https://github.com/shahidazam2020-oss/CPU-Scheduling-Algorithms/commits">
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/CPU-Scheduling-Algorithms?display_timestamp=committer&style=flat-square" alt="Last Commit">
   </a>
-
+</p>
   
   ---
 ### Preemptive Priority Scheduling Simulator
