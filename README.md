@@ -7,7 +7,11 @@
 <a href="https://github.com/shahidazam2020-oss/CPU-Scheduling-Algorithms/forks">
     <img src="https://img.shields.io/github/forks/shahidazam2020-oss/CPU-Scheduling-Algorithms?style=social&cacheSeconds=60" alt="GitHub Forks">
   </a>
+<a href="https://github.com/shahidazam2020-oss/CPU-Scheduling-Algorithms/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/CPU-Scheduling-Algorithms?display_timestamp=committer&style=flat-square" alt="Last Commit">
+  </a>
 
+  
   ---
 ### Preemptive Priority Scheduling Simulator
 
