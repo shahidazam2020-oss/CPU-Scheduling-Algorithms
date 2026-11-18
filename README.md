@@ -1,5 +1,12 @@
 # ⚙️ CPU Scheduling Algorithms
 
+<a href="https://github.com/shahidazam2020-oss/CPU-Scheduling-Algorithms/stargazers">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/CPU-Scheduling-Algorithms?style=social&cacheSeconds=60" alt="GitHub Stars">
+  </a>
+
+
+
+  ---
 ### Preemptive Priority Scheduling Simulator
 
 A Python-based implementation and analysis of the **Preemptive Priority CPU Scheduling Algorithm** developed as part of an Advanced Operating Systems activity.
